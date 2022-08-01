@@ -8,7 +8,7 @@ public class PlacingCheck {
 
         //Change the char values to specified place in the array
         int a = Character.getNumericValue(point.charAt(0)) - 10;
-        Pattern p;
+//        Pattern p;
 //        Matcher m = p.matcher("^[A-Ja-j]([0-9]|10)$");
 
 //        if (Regex.IsMatch(myString, @ "^[A-Ja-j]([0-9]|10)$")){

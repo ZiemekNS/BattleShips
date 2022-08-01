@@ -29,6 +29,7 @@ public class PlacingShips {
         }
         battleground = PlacingCheck.placingCheck(point, placement, battleground, boatSize);
 
+
     }
 
     public void askWhatships() {
